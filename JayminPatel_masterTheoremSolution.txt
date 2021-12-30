@@ -1,0 +1,5 @@
+a. T(n) = Θ(n^log 3 [base 2])
+b. T(n) = Θ(n^2 * (log n)^2)
+c. T(n) = Θ(n^n)
+d. T(n) = Θ(n * log n)
+e. T(n) = Θ(n^2)
